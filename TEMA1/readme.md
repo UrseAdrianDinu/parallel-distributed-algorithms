@@ -1,1 +1,1 @@
-# Parallelization of a genetic algorithm
+# Parallelization of a genetic algorithm (PThreads - C)
